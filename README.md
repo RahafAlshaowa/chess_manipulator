@@ -20,4 +20,4 @@ To run the example game:
 ros2 run chess_manipulator example_game
 ```
 ## Example
-[![Watch the video](https://img.youtube.com/vi/hd8YkH5W7qA/maxresdefault.jpg)](https://youtu.be/hd8YkH5W7qA)
+[![Watch the video](https://img.youtube.com/vi/zvH8goUo2EE/maxresdefault.jpg)](https://youtu.be/zvH8goUo2EE)
